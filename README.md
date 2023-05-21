@@ -4,5 +4,5 @@ Problem Statement: The Aggie Reuse Store currently has no way of monitoring the 
 
 - Forecasting/Predictions
 - Hardware: Arduino wired to a ultrasonic sensor -> imitate motion sensor
-- Website development
+- Front-End
 - Visualization
