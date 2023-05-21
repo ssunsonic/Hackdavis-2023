@@ -11,3 +11,5 @@ File Description:
 - forecast.py: Python file that forecast based on the data from Day_m.csv model, built with LSTM Neural Network technique and python.
 - Day_m.csv: Data mapped from monthly_milk_production.csv containing columns of Day and Footprint of that Day in the week.
 - monthly_milk_production.csv: Cyclic Data that present a seasonal trend; used to mimik the footprints of the Used Store
+- arduino.c++: Source code in C++ that reads Arduino data from the ultrasonic sensor as a counter output
+- test.py: Source code in Python that reads Arduino data
