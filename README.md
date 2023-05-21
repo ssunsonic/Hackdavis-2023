@@ -7,7 +7,8 @@ Problem Statement: The Aggie Reuse Store currently has no way of monitoring the 
 - Front-End
 - Visualization
 
-File Description:
+
+File Descriptions:
 - forecast.py: Python file that forecast based on the data from Day_m.csv model, built with LSTM Neural Network technique and python.
 - Day_m.csv: Data mapped from monthly_milk_production.csv containing columns of Day and Footprint of that Day in the week.
 - monthly_milk_production.csv: Cyclic Data that present a seasonal trend; used to mimik the footprints of the Used Store
