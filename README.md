@@ -20,6 +20,5 @@ Front End Development:
 
 Link to Demo:
 https://youtu.be/5ulnhIoJCjE
-
 Link to HackDavis Submission:
 https://devpost.com/software/happy-feet
