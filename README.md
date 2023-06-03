@@ -4,7 +4,7 @@ Problem Statement: The Aggie Reuse Store currently has no way of monitoring the 
 
 - Forecasting/Predictions
 - Hardware: Arduino wired to a ultrasonic sensor -> imitate motion sensor
-- Front-End
+- Front-End: Built with React.js, Charts.js plugin to create graphs. Read json files, in order to map out data.
 - Visualization
 
 File Description:
@@ -12,11 +12,11 @@ File Description:
 - Day_m.csv: Data mapped from monthly_milk_production.csv containing columns of Day and Footprint of that Day in the week.
 - monthly_milk_production.csv: Cyclic Data that present a seasonal trend; used to mimik the footprints of the Used Store
 
-Front End Development:
-- Run by cd my-app, and npm start.
-- Built using React.js the framework.
-- Utilized Chart.js to create interactive graphs.
+Website:
+- Run `by cd my-app`, and `npm start`
+- Graphs created with Chart.js are slighlty interactive with hover effect.
 - Nice color theme, with a simple straight forward landing page designed to deliver information promptly.
+- Drop down menu for smaller screens, but unutilized.
 
 Link to Demo:
 https://youtu.be/5ulnhIoJCjE
